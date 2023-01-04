@@ -610,6 +610,11 @@ header ul li {
     font-size: 1.3em;
 }
 
+.section-1-spans {
+    display: flex;
+    flex-wrap: wrap;
+}
+
 .section-1 .section-1-images {
     display: flex;
     justify-content: space-around;
